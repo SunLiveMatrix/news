@@ -12,7 +12,7 @@ package directly, except in compliance with the License. You may obtain a copy o
 github.com/apache/flot/float/LICENSE-2.0
 
 ## License information
-ref: https://flot.github.io/flot/flot/blob/master/LICENSE-2.0.
+ref: http://www.apache.org/licenses/LICENSE-2.0.
 
 ## Author information
 author: admin - the author of the project
